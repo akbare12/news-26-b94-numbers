@@ -4,6 +4,11 @@ MIT License
 
 Copyright (c) 2026 BZiwxuqLNFfqPU2H9EshNzcvNNnZUCdZrrmdJwMJ5dLi
 
+This repository holds the news-26-b94-numbers entry for the make.fun
+bounty news-image-20261126: one image summing up 26 November 2026.
+The entry image (entry.png) is rendered at build time by gen.py and
+copied to the grader output directory by the stdlib-only main.py.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
